@@ -7,6 +7,12 @@
 - <b>Buoyant Buns(Generative Art)</b>
   - [Imagery & Description](https://sites.google.com/d/1LsknEhvR0HPKDQWZCxi1ytmB6KNdHL6S/p/1_wcOswHzOvCtB-0DLH81rQ0RFKOJGSHn/edit?pli=1)
 
+<h2> Certfications:</h2>
+
+<h3>Microsoft Office Specialist Associate </h3>br>
+<b><i>Word</b></i><br>
+<b><i>Excel</b></i><br>
+<b><i>PowerPoint</b></i><br>
 
 <h2> 🤳 Connect with me:</h2>
 
