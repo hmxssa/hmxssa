@@ -3,9 +3,9 @@
 <h2>👨‍💻 Computer Science Projects:</h2>
 
 - <b>Space Strike (Info. Theory Game)</b>
-  - [Code Overview & Description](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Code Overview & Description](https://sites.google.com/d/1LsknEhvR0HPKDQWZCxi1ytmB6KNdHL6S/p/10Bn19LR1g6BnFnVLSmJ-N5p1xyP0UWWe/edit?pli=1)
 - <b>Buoyant Buns(Generative Art)</b>
-  - [Imagery & Description](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Imagery & Description](https://sites.google.com/d/1LsknEhvR0HPKDQWZCxi1ytmB6KNdHL6S/p/1_wcOswHzOvCtB-0DLH81rQ0RFKOJGSHn/edit?pli=1)
 
 
 <h2> 🤳 Connect with me:</h2>
