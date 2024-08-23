@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hajar! <br/><a href="[https://sites.google.com/mysbisd.org/hajar-moussa/home/about-me]">IB Computer Science Student</a>
+<h1>Hi, I'm Hajar! <br/><a href="(https://sites.google.com/mysbisd.org/hajar-moussa/home/about-me)">IB Computer Science Student</a>
 
 <h2>👨‍💻 Computer Science Projects:</h2>
 
