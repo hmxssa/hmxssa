@@ -9,7 +9,7 @@
 
 <h2> Certfications:</h2>
 
-<h3>Microsoft Office Specialist Associate </h3>br>
+<h3>Microsoft Office Specialist Associate </h3>
 <b><i>Word</b></i><br>
 <b><i>Excel</b></i><br>
 <b><i>PowerPoint</b></i><br>
