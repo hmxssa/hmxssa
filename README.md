@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hajar! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Hajar! <br/><a href="[https://sites.google.com/mysbisd.org/hajar-moussa/home/about-me]">IB Computer Science Student</a>
 
 <h2>👨‍💻 Computer Science Projects:</h2>
 
@@ -10,5 +10,12 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<h2>Hajar Moussa <br/><a href="mousshaj000@mysbisd.org">gmail</a>
+<h3>Hajar Moussa <br/>
+  
+<b><i>School</b></i><br>
+<b>mousshaj000@mysbisd.org</b>
+  <br><b><i>Personal<b/></i><br>
+mousshajar276@gmail.com
+ <br><b><i>Phone</b></i><br>
+ (346)-494-3127
 
